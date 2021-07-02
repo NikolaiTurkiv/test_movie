@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="title_of_movie">Title of movie</string>
+    <string name="heart">heart</string>
+    <string name="label_title">Label title</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+</resources>
